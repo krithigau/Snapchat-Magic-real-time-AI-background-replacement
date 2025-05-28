@@ -58,3 +58,11 @@ Snapchat-AI-Replacement/
 ![WhatsApp Image 2025-05-28 at 13 59 26_f5003131](https://github.com/user-attachments/assets/0b70f2ed-9d33-486b-a7d8-d8eba9026bc2)
 
 ---
+## 🎉 Results
+🧍 The person is accurately detected and separated from the background using AI.
+
+🌄 Background is replaced in real-time with a custom image using only a webcam feed.
+
+💡 Smoothing and edge blending techniques give a natural transition — no hard cutouts!
+
+⚡ Works smoothly and gives a Snapchat-style filter experience.
